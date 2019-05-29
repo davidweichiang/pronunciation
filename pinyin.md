@@ -4,89 +4,97 @@ April 2012, last updated May 2019
 
 This sheet describes how to pronounce Chinese names and words when they are written using the standard Pinyin system and when _you are speaking American English_.
 
+## Consonants
+
 1. Easy consonants. The letters **b p m f d t n l s j ch sh r g k h ng y w** should be pronounced as in English.
 
 - Note that **j** should be pronounced exactly as in English: /dʒ/ as in Jack, never /ʒ/ as in Jacques!
 
 2. Tricky consonants. These are the most important ones to remember.
 
-| letter  | sound                                     |
-|---------|-------------------------------------------|
-| **zh-** | /dʒ/ as in Jack, never /ʒ/ as in Jacques! |
-| **q-**  | /tʃ/, exactly like ch                     |
-| **x-**  | /ʃ/, exactly like sh                      |
-| **z-**  | /dz/                                      |
-| **c-**  | /ts/                                      |
+   | letter  | sound                                     |
+   |---------|-------------------------------------------|
+   | **zh**  | /dʒ/ as in Jack, never /ʒ/ as in Jacques! |
+   | **q**   | /tʃ/, exactly like ch                     |
+   | **x**   | /ʃ/, exactly like sh                      |
+   | **z**   | /dz/                                      |
+   | **c**   | /ts/                                      |
 
 - If you can't pronounce **z** as /dz/, then the next best thing is probably to pronounce it as /z/.
 - If you can't pronounce **c** as /ts/, then the next best thing is probably to pronounce it as /s/ (never as a hard /k/).
 
-3. The following vowels can occur before another vowel. When they do, try to pronounce them smoothly, not as an extra syllable.
+## Vowels
 
-| letter      | sound                                                          |
-|-------------|----------------------------------------------------------------|
-| **-i-**     | /j/, same as English y                                         |
-| **-u-**     | /w/                                                            |
-| **-ü- -v-** | /y/, like French/German ü; if you can't make this sound, say w |
+3. Glides. The following vowels can occur between a consonant and another vowel. When they do, try to pronounce them smoothly, not as an extra syllable. 
+
+   | letter      | sound                     |
+   |-------------|---------------------------|
+   | **i**       | /j/, same as English y    |
+   | **u**       | /w/                       |
+   | **ü** **v** | /y/, like French/German ü |
+
+- **v** is just another way of writing **ü**.
+- If you can't pronounce **ü** as the French/German ü sound, the next best thing is probably to pronounce it /w/, same as **u**.
+- If a word has an apostrophe in it, like **Xi'an**, that means it _should_ be pronounced as two syllables.
 
 4. The letter **a** is like in Spanish/French/German, but in English, it changes its sound depending on what comes after it.
 
-| combination | sound           |
-|-------------|-----------------|
-| **-a**      | /ɑ/ ah          |
-| **-an**     | /æn/ Anne       |
-| **-ang**    | /æŋ/ as in bang |
-| **-ai**     | /aɪ/ aye        |
-| **-ao**     | /aʊ/ ow         |
+   | combination | sound           |
+   |-------------|-----------------|
+   | **-a**      | /ɑ/ ah          |
+   | **-an**     | /æn/ Anne       |
+   | **-ang**    | /æŋ/ as in bang |
+   | **-ai**     | /aɪ/ aye        |
+   | **-ao**     | /aʊ/ ow         |
 
 Exceptions:
 
-| combination | sound           |
-|-------------|-----------------|
-| **yan**     | yen             |
-| **-ian**    | yen             |
-| **juan**    | jwen            |
-| **quan**    | chwen           |
-| **xuan**    | shwen           |
+   | combination | sound           |
+   |-------------|-----------------|
+   | **yan**     | yen             |
+   | **-ian**    | yen             |
+   | **juan**    | jwen            |
+   | **quan**    | chwen           |
+   | **xuan**    | shwen           |
 
 5. The letter **e** is hard to approximate in English. These seem to be the most common pronunciations:
 
-| combination | sound                               |
-|-------------|-------------------------------------|
-| **-e**      | /ʌ/ as in uh, never a long ee sound |
-| **-en**     | /ɛn/ en                             |
-| **-eng**    | /ɛŋ/ eng                            |
-| **-ei**     | /eɪ/ as in hey                      |
-| **ye -ie**  | /yɛ/ as in yet                      |
-| **-ue**     | /wɛ/ as in wet                      |
+   | combination | sound                               |
+   |-------------|-------------------------------------|
+   | **-e**      | /ʌ/ as in uh, never a long ee sound |
+   | **-en**     | /ɛn/ en                             |
+   | **-eng**    | /ɛŋ/ eng                            |
+   | **-ei**     | /eɪ/ as in hey                      |
+   | **ye -ie**  | /yɛ/ as in yet                      |
+   | **-ue**     | /wɛ/ as in wet                      |
 
 6. The letter **o**, when used by itself, is actually shorthand for **uo**.
 
-| combination | sound                               |
-|-------------|-------------------------------------|
-| **-o**      | /wo/ woe                            |
-| **-ong**    | /ɔŋ/ as in long                     |
-| **-ou**     | /oʊ/ oh                             |
+   | combination | sound                               |
+   |-------------|-------------------------------------|
+   | **-o**      | /wo/ woe                            |
+   | **-ong**    | /ɔŋ/ as in long                     |
+   | **-ou**     | /oʊ/ oh                             |
 
 7. The letter **i** is usually pronounced /i/, as in beet. 
 
 But after one of the letters in the second column of #2 above, it is silent! 
 
-| combination | sound            |
-|-------------|------------------|
-| **zhi**     | jjj, never jee   |
-| **chi**     | chhh, never chee |
-| **shi**     | shhh, never she  |
-| **zi**      | dzzz, never zee  |
-| **ci**      | tsss             |
-| **si**      | sss, never see   |
+   | combination | sound            |
+   |-------------|------------------|
+   | **zhi**     | jjj, never jee   |
+   | **chi**     | chhh, never chee |
+   | **shi**     | shhh, never she  |
+   | **zi**      | dzzz, never zee  |
+   | **ci**      | tsss             |
+   | **si**      | sss, never see   |
 
 8. The letter **u** is usually pronounced /u/, as in boot. But in certain combinations, it is actually shorthand:
 
-| combination | short for | sound            |
-|-------------|-----------|------------------|
-| **-ui**     | **-uei**  | /weɪ/ way        |
-| **-un**     | **-uen**  | /wɛn/ as in Owen |
-| **-iu**     | **-iou**  | /yoʊ/ yo         |
+   | combination | short for | sound            |
+   |-------------|-----------|------------------|
+   | **-ui**     | **-uei**  | /weɪ/ way        |
+   | **-un**     | **-uen**  | /wɛn/ as in Owen |
+   | **-iu**     | **-iou**  | /yoʊ/ yo         |
 
 And when it appears after one of the letters in the first column of #2 above (**ju qu xu yu**), it is actually shorthand for **ü**.
