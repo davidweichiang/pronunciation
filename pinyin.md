@@ -32,13 +32,13 @@ This sheet describes how to pronounce Mandarin Chinese names and words when they
    | **i**       | /j/, same as y            |
    | **u**       | /w/, same as w            |
 
-3a. When **u** is preceded by **j q x** or **y**, it is pronounced /ɥ/, which is similar to the French/German ü sound. If you can't make this sound, the next best thing is probably to pronounce it /w/, same as **u**.
+a. When **u** is preceded by **j q x** or **y**, it is pronounced /ɥ/, which is similar to the French/German ü sound. If you can't make this sound, the next best thing is probably to pronounce it /w/, same as **u**.
 
-3b. If a word has an apostrophe in it, like **Xi'an**, that means it _should_ be pronounced as two syllables.
+b. If a word has an apostrophe in it, like **Xi'an**, that means it _should_ be pronounced as two syllables.
 
 ## Vowels
 
-4. The letter **a** is pronounced /a/, the same as in many languages, like Spanish or French. But a lot of English dialects don't have this sound. Below are all the possible endings that can come after **a**, and their most common pronunciations in English:
+4. The letter **a** is pronounced /a/, the same as in many languages, like Spanish or French. But in English, this sound usually becomes /ɑ/ or /æ/ in open or closed syllables, respectively:
 
    | letter(s) | sound           |
    |-----------|-----------------|
@@ -48,7 +48,7 @@ This sheet describes how to pronounce Mandarin Chinese names and words when they
    | **-ai**   | /aɪ/ aye        |
    | **-ao**   | /aʊ/ ow         |
 
-4a. Exception: **-an** preceded by **i** **y** or **ü** changes to /ɛ/; this interacts with rule 8b below, so it's easier to write out all the possibilities:
+a. Exception: **-an** preceded by **i** **y** or **ü** changes to /ɛ/; this interacts with rule 8b below, so it's easier to write out all the possibilities:
 
    | letters  | sound |
    |----------|-------|
@@ -61,7 +61,7 @@ This sheet describes how to pronounce Mandarin Chinese names and words when they
 
 5. The letter **e** has two sounds.
 
-5a. Usually it's pronounced /ɤ/, but this sound does not exist in English, so it bcomes:
+a. Usually it's pronounced /ɤ/, but this sound does not exist in English. The closest approximations are probably /ʌ/ and /ɛ/ in open and closed syllables, respectively:
 
    | letter(s) | sound                             |
    |-----------|-----------------------------------|
@@ -69,23 +69,23 @@ This sheet describes how to pronounce Mandarin Chinese names and words when they
    | **-en**   | /ɛn/ en                           |
    | **-eng**  | /ɛŋ/ eng                          |
    
-5b. When preceded by **i** **y** or **ü**, it's pronounced /ɛ/.
+b. When preceded by **i** **y** or **ü**, it's pronounced /ɛ/.
 
    | letters    | sound          |
    |------------|----------------|
-   | **-ei**    | /eɪ/ as in hey |
    | **ye -ie** | /jɛ/ as in yet |
    | **-ue**    | /wɛ/ as in wet |
    | **-üe**    | /ɥɛ/ as in wet |
+   | **-ei**    | /eɪ/ as in hey |
 
-6. The letter **o**
+6. The letter **o** is pronounced like /o/. In English, **ong** tends to become /ɑŋ/.
 
    | letter(s) | sound           |
    |-----------|-----------------|
-   | **-ong**  | /ʊŋ/            |
+   | **-ong**  | /ɑŋ/ as in long |
    | **-ou**   | /oʊ/ oh, not oo |
 
-6a. When **-o** is used by itself, it's actually shorthand for **-uo**.
+a. When **-o** is used by itself, it's actually shorthand for **-uo**.
 
    | letters | sound |
    |---------|-------|
@@ -94,18 +94,18 @@ This sheet describes how to pronounce Mandarin Chinese names and words when they
    | **mo**  | mwo   |
    | **fo**  | fwo   |
    
-   However, these are hard to pronounce in English, and the mispronunciations bow, poe, etc., are so common that they seem to be stuck.
+   However, these are hard to pronounce in English, and the mispronunciations beau, poe, etc., are so common that they seem to be stuck.
 
-7. The letter **i** is usually pronounced /i/, as in beet. But when it's followed by **n**, it usually ends up short:
+7. The letter **i** is pronounced /i/, as in beet. But in English, /in/ is lengthened too much, so I think it's more common to say /ɪn/ instead.
 
-   | letters | sound            |
-   |---------|------------------|
-   | **jin** | djinn (not jean) |
-   | **qin** | chin (not cheen) |
-   | **xin** | shin (not sheen) |
-   | **yin** | yin (not yeen) |
+   | letters | sound                   |
+   |---------|-------------------------|
+   | **jin** | /dʒɪn/ djinn (not jean) |
+   | **qin** | /tʃɪn/ chin (not cheen) |
+   | **xin** | /ʃɪn/ shin (not sheen)  |
+   | **yin** | /yɪn/ yin (not yeen)    |
 
-7a. But in the following cases, it is silent (that is, the consonant becomes syllabic):
+a. But in the following cases, it is silent (that is, the consonant becomes syllabic):
 
    | letters | sound                    |
    |---------|--------------------------|
@@ -119,7 +119,7 @@ This sheet describes how to pronounce Mandarin Chinese names and words when they
 
 8. The letter **u** is usually pronounced /u/, as in boot. 
 
-8a. But in certain combinations, it is actually shorthand:
+a. But in certain combinations, it is actually shorthand:
 
    | letters | short for | sound            |
    |---------|-----------|------------------|
@@ -127,6 +127,6 @@ This sheet describes how to pronounce Mandarin Chinese names and words when they
    | **-un** | **-uen**  | /wɛn/ as in Owen |
    | **-iu** | **-iou**  | /yoʊ/ yo         |
 
-8b. In **ju qu xu** or **yu**, the **u** is pronounced /y/, like the French/German ü. If you can't make this sound, the next best thing is to say /u/, like oo.
+b. In **ju qu xu** or **yu**, the **u** is pronounced /y/, like the French/German ü. If you can't make this sound, the next best thing is to say /u/, like oo.
 
-8c. In **nu** or **lu**, the **u** is _sometimes_ pronounced /y/, like the French/German ü. In these cases, it should properly be written as **nü** or **lü**, or sometimes as **nv** or **lv**, but is not always.
+c. In **nu** or **lu**, the **u** is _sometimes_ pronounced /y/, like the French/German ü. In these cases, it should properly be written as **nü** or **lü**, or sometimes as **nv** or **lv**, but is not always.
