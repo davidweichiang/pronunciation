@@ -2,19 +2,24 @@
 David Chiang (dchiang@nd.edu)
 April 2012, last updated May 2019
 
-This sheet describes how to pronounce Chinese names and words when they are written using the standard Pinyin system (used by mainland Chinese) and when you are speaking American English.
+This sheet describes how to pronounce Chinese names and words when they are written using the standard Pinyin system and when _you are speaking American English_.
 
-1. Easy consonants. The letters **b p m f d t n l g k h r s w y** should be pronounced as in English. So should the consonant cluster **ng** at the end of a word.
+1. Easy consonants. The letters **b p m f d t n l s j ch sh r g k h ng y w** should be pronounced as in English.
+
+- Note that **j** should be pronounced exactly as in English: /dʒ/ as in Jack, never /ʒ/ as in Jacques!
 
 2. Tricky consonants. These are the most important ones to remember.
 
-| letter     | sound                                          |
-|------------|------------------------------------------------|
-| **j- zh-** | /dʒ/, like j in Jack, never /ʒ/ as in Jacques! |
-| **q- ch-** | /tʃ/, like ch                                  |
-| **x- sh-** | /ʃ/, like sh                                   |
-| **z-**     | /dz/                                           |
-| **c-**     | /ts/                                           |
+| letter  | sound                                     |
+|---------|-------------------------------------------|
+| **zh-** | /dʒ/ as in Jack, never /ʒ/ as in Jacques! |
+| **q-**  | /tʃ/, exactly like ch                     |
+| **x-**  | /ʃ/, exactly like sh                      |
+| **z-**  | /dz/                                      |
+| **c-**  | /ts/                                      |
+
+- If you can't pronounce **z** as /dz/, then the next best thing is probably to pronounce it as /z/.
+- If you can't pronounce **c** as /ts/, then the next best thing is probably to pronounce it as /s/ (never as a hard /k/).
 
 3. The following vowels can occur before another vowel. When they do, try to pronounce them smoothly, not as an extra syllable.
 
